@@ -1,0 +1,11 @@
+Encoded feature,Forest importance
+categorical__weather_pattern_Monsoon,0.1429921526682244
+numeric__aptitude_score,0.10761888960880704
+numeric__composite_rank,0.1008411133815279
+categorical__instrument_Cello,0.09208406069720755
+numeric__performance_score,0.0646718959112952
+numeric__stability_index,0.06424304843307302
+numeric__activity_duration,0.058583175409477765
+categorical__weather_pattern_Heatwave,0.04979061016649969
+numeric__load_ratio,0.04191731493797451
+numeric__index_weight,0.02763808428727936
